@@ -31,5 +31,5 @@ function calcularIncremento() {
 
     // Mostrar el resultado
     var resultadoElemento = document.getElementById('result');
-    resultadoElemento.innerHTML = `El plus de antigüedad es de ${incrementoTotal.toFixed(2)} euros.`;
+    resultadoElemento.innerHTML = `El incremento de salario por plus de antigüedad es de ${incrementoTotal.toFixed(2)} euros al mes.`;
 }
